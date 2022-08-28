@@ -1,12 +1,10 @@
-## Hi there 👋
+<p align="center"><a href="https://shardmc.github.io/" target="_blank"><img src="https://cdn.discordapp.com/attachments/761484647589740584/1013402346153316402/logo_phoneless.png?size=4096" width="20%"></a></p>
 
-<!--
+<h1 align="center">ShardMC
+<h2 align="center"><code>Work-In-Progress</code> Minecraft Server Core 💻</h2>
 
-**Here are some ideas to get you started:**
+<p align="center"><a href='https://discord.gg/CvSkNeQ9uj' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=white&labelColor=0037FF&color=black'/></a></p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+<br></br>
+> Note: repository and releases will be published as soon as we will finish the server core.
