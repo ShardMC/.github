@@ -1,5 +1,4 @@
-<p align="center"><a href="https://shardmc.github.io/" target="_blank"><![logo_phoneless](https://user-images.githubusercontent.com/88781618/187075197-559a2482-cc76-460c-800c-3d2a708160c5.png)
- width="20%"></a></p>
+<p align="center"><a href="https://shardmc.github.io/" target="_blank">img src="https://cdn.discordapp.com/attachments/761484647589740584/1013407154004308079/logo_phoneless.png?size=4096" width="20%"></a></p>
 
 # <h1 align="center">ShardMC
 <h2 align="center"><code>Work-In-Progress</code> Minecraft Server Core 💻</h2>
