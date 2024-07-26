@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://shardmc.su" target="_blank"><img src="https://raw.githubusercontent.com/ShardMC/ward/main/logo/4096x4096/logo_phoneless.png" width="20%">
+  <a href="https://shardmc.su" target="_blank"><img src="https://raw.githubusercontent.com/ShardMC/ward/main/logo/4096x4096/logo_nobg.png" width="20%">
     <h1 align="center"> ShardMC </h1>
   </a>
 </p>
