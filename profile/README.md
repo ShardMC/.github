@@ -11,4 +11,3 @@
 
 <br></br>
 > Note: repository and releases will be published as soon as we will finish the server core.
--
